@@ -1,0 +1,39 @@
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\bin\Debug\JavaScript.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\bin\Debug\JavaScript.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\obj\Debug\JavaScript.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\obj\Debug\JavaScript.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\obj\Debug\JavaScript.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\bin\Debug\JavaScript.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\bin\Debug\JavaScript.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.pdb
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\bin\Debug\JavaScript.dll
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\bin\Debug\JavaScript.pdb
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.dll
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.pdb
+C:\Users\Mokitel\Documents\Projects\Alunos\JavaScript\bin\Debug\JavaScript.dll
+C:\Users\Mokitel\Documents\Projects\Alunos\JavaScript\bin\Debug\JavaScript.pdb
+C:\Users\Mokitel\Documents\Projects\Alunos\JavaScript\obj\Debug\JavaScript.csproj.CoreCompileInputs.cache
+C:\Users\Mokitel\Documents\Projects\Alunos\JavaScript\obj\Debug\JavaScript.dll
+C:\Users\Mokitel\Documents\Projects\Alunos\JavaScript\obj\Debug\JavaScript.pdb
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\Alunos\JavaScript\bin\Debug\JavaScript.dll
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\Alunos\JavaScript\bin\Debug\JavaScript.pdb
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\Alunos\JavaScript\obj\Debug\JavaScript.csproj.AssemblyReference.cache
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\Alunos\JavaScript\obj\Debug\JavaScript.csproj.CoreCompileInputs.cache
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\Alunos\JavaScript\obj\Debug\JavaScript.dll
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\Alunos\JavaScript\obj\Debug\JavaScript.pdb
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\DrownSolutions\JavaScript\bin\Debug\JavaScript.dll
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\DrownSolutions\JavaScript\bin\Debug\JavaScript.pdb
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\DrownSolutions\JavaScript\obj\Debug\JavaScript.csproj.AssemblyReference.cache
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\DrownSolutions\JavaScript\obj\Debug\JavaScript.csproj.CoreCompileInputs.cache
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\DrownSolutions\JavaScript\obj\Debug\JavaScript.dll
+C:\Users\Mokitel\Documents\Projects\CursoFYI\Estudo\Aluno\DrownSolutions\JavaScript\obj\Debug\JavaScript.pdb
+E:\Dynamics_AX\TCC\DrownSolutionsValendo\JavaScript\bin\Debug\JavaScript.dll
+E:\Dynamics_AX\TCC\DrownSolutionsValendo\JavaScript\bin\Debug\JavaScript.pdb
+E:\Dynamics_AX\TCC\DrownSolutionsValendo\JavaScript\obj\Debug\JavaScript.csproj.AssemblyReference.cache
+E:\Dynamics_AX\TCC\DrownSolutionsValendo\JavaScript\obj\Debug\JavaScript.csproj.CoreCompileInputs.cache
+E:\Dynamics_AX\TCC\DrownSolutionsValendo\JavaScript\obj\Debug\JavaScript.dll
+E:\Dynamics_AX\TCC\DrownSolutionsValendo\JavaScript\obj\Debug\JavaScript.pdb

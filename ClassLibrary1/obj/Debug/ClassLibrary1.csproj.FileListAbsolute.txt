@@ -1,0 +1,7 @@
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\ClassLibrary1\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\ClassLibrary1\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\ClassLibrary1\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

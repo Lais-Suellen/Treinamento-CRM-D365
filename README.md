@@ -1,1 +1,1 @@
-# Treinamento-CRM-D365
+# Treinamento-Dynamics-365
